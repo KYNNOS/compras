@@ -13,7 +13,7 @@ import java.util.Vector;
  *
  * @author hp pc
  */
-public class inserirartigos extends vetor{
+public class inserirartigos {
     Vector<artigo> artigos= new Vector<artigo>();
     public inserirartigos() {
         double soma = 0;
